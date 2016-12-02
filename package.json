@@ -1,0 +1,26 @@
+{
+  "name": "mycelebs-front-end-scaffolding",
+  "version": "0.0.1",
+  "description": "Welcome to front-end development environment!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MyoungHak Jeong",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-preset-es2015": "^6.18.0",
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.4.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "node-sass": "^3.11.2"
+  }
+}

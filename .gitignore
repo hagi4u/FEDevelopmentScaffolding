@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.log
+
+src/
+dist/
+node_modules/
+bower_components/
+test/
+
